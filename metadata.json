@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Python PEP 8",
+  "description": "Calculadora modular e robusta em Python com arquitetura limpa, CLI interativo, interface gráfica Tkinter e validação de exceções.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
